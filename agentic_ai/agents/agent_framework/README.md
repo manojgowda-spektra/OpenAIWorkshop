@@ -18,7 +18,7 @@ This directory contains production-ready implementations of multi-agent patterns
 ### Prerequisites
 
 1. **Python 3.10+** with dependencies installed via `uv sync` or `pip install -r requirements.txt`
-2. **Node.js 16+** (for React frontend) - Check with `node --version`
+2. **Node.js 22+ (LTS)** (for React frontend) - Check with `node --version`
 3. **Running MCP Server** on `http://localhost:8000`
 4. **Azure OpenAI** endpoint and API key configured in `.env`
 
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 **2. Install Node.js (if needed):**
 
-The React frontend requires Node.js 16+ and npm:
+The React frontend requires Node.js 22+ (LTS) and npm:
 
 - **Windows/macOS/Linux:** Download from [https://nodejs.org/](https://nodejs.org/) (LTS version)
 - **Windows (winget):** `winget install OpenJS.NodeJS.LTS`
