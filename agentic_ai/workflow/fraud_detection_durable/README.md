@@ -550,7 +550,7 @@ This section covers how to run the reference implementation locally to see the p
 ### Prerequisites
 
 - **Python 3.12+** with **uv**
-- **Node.js 18+** — for React UI
+- **Node.js 22+ (LTS)** — for React UI
 - **Azure OpenAI** — with a deployed chat model
 - **MCP Server** — Contoso tools on port 8000
 - **A Durable Task Scheduler** — either the local Docker emulator **or** an Azure DTS endpoint (see modes below)

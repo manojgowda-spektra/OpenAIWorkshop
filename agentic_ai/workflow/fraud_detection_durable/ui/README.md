@@ -23,7 +23,7 @@ A modern React application for visualizing and managing fraud detection workflow
 
 ## Prerequisites
 
-- Node.js 18+ or newer
+- Node.js 22+ (LTS)
 - npm 9+ or newer
 
 ## Getting Started

@@ -19,7 +19,7 @@ In this part, you will set up and run the React frontend for the Microsoft AI Ag
 
 ### 1. Install Node.js
 
-The React frontend requires Node.js 16+ and npm.
+The React frontend requires Node.js 22+ (LTS) and npm.
 
 > **Action Items:**
 > Open a new terminal window separate than the one running the MCP server and backend.
